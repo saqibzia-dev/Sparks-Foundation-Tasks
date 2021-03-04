@@ -1,0 +1,19 @@
+1# linear regression rmse(so far the best):
+ 
+    scores_mean: 6.05
+    scores_std: 1.62
+    
+2# SVR rmse scores: underfitting
+ 
+       scores_mean: 24.9
+       scores_std: 6.72
+       
+3# DT rmse scores: 
+ 
+        scores_mean: 7.49
+        scores_std: 1.97
+        
+4#  Random Forest rmse scores:
+  
+         scores_mean: 6.06
+         scores_std: 2.6
